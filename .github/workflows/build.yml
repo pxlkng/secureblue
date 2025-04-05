@@ -28,7 +28,7 @@ jobs:
       matrix:
         recipe:
           # general
-          - general/recipe-kinoite-nvidia-open.yml
+          - general/recipe-kinoite-main.yml
 
     steps:
       - name: Checkout repo
