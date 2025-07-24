@@ -36,3 +36,4 @@ modules:
       - enabledisablekdesplash.sh
       - setdefaultkdewallpapers.sh
       - systemsettings-standard-malloc.sh
+      - removekdesu.sh
